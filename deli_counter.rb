@@ -23,5 +23,3 @@ def line(katz_deli)
       message += " #{index.to_i+1}. #{value}"
     end
 
-    puts "#{message}"
-  end
